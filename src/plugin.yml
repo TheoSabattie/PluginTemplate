@@ -1,0 +1,12 @@
+name: PluginTemplate
+version: 0.7.0
+description: Mini-Game
+author: ilicos
+main: fr.ilicos.pluginTemplate.PluginTemplate
+
+commands:
+   plTemp:
+     description: something
+     aliases: [pl]
+     permission: pluginTemplate.pl
+     usage: /plTemp <command>
